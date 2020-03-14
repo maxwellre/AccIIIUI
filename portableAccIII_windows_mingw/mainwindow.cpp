@@ -9,7 +9,8 @@ MainWindow::MainWindow(QWidget *parent, Acciii *acciii_)
     //acciii = new Acciii;
     acciii = acciii_;
 
-    dispSensorInd = {2, 32, 63, 92, 134};
+    //dispSensorInd = {2, 32, 63, 92, 134};
+    dispSensorInd = {2, 32, 63, 92, 131};
 }
 
 MainWindow::~MainWindow()
